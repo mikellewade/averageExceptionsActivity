@@ -1,6 +1,7 @@
 from math import floor
 
 def function_test():
+    print("oh my god what happened?")
     return True
 
 
