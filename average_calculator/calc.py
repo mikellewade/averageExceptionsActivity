@@ -5,6 +5,8 @@ def calculator():
     print("This calculator will help you find a rounded-down average!")
     print("Enter integers one at a time.")
     print("When you're ready to compute an average, type 'compute'")
+    print("checking for changes for merge conflicts")
+   
     
     finished = False
     numbers = []
