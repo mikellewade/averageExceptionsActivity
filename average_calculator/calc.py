@@ -6,7 +6,7 @@ def calculator():
     print("Enter integers one at a time.")
     print("I think I'm falling in loveeee")
     print("When you're ready to compute an average, type 'compute'")
-    print("checking for changes for merge conflicts")
+    print("we must change the same lines")
    
     
     finished = False
