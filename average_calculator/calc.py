@@ -1,7 +1,8 @@
 from math import floor
 
 def function_test():
-    return False
+    print("oh my god what happened?")
+    return True
 
 
 def calculator():
