@@ -1,5 +1,8 @@
 from math import floor
 
+def function_test():
+    return True
+
 
 def calculator():
     print("This calculator will help you find a rounded-down average!")
