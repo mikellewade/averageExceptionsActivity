@@ -4,9 +4,7 @@ from math import floor
 def calculator():
     print("This calculator will help you find a rounded-down average!")
     print("Enter integers one at a time.")
-    print("I think I'm falling in loveeee")
     print("When you're ready to compute an average, type 'compute'")
-    print("I think we have to change the same lines")
    
     
     finished = False
